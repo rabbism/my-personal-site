@@ -72,7 +72,10 @@ footer{
     background-image: linear-gradient(180deg,lightSalmon,tomato);
     text-align: center;
     color: white;
-    border-radius:5px;
+    box-shadow: 10px 10px 40px gray;
+    border-radius: 5px;
+    background-color: white;
+    border-image: linear-gradient(180deg,lightSalmon,tomato);
     
 }
 .my-cv{
